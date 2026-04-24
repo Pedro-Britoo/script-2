@@ -2,9 +2,7 @@ using UnityEngine;
 
 public class Exer08 : MonoBehaviour
 {
-    //8. (Reverter uma string) Escreva um programa que inverte uma
-    //string usando um loop for.
-
+    
     string palavra = "anotaramadatadamaratona";
 
     string invertida = "";
